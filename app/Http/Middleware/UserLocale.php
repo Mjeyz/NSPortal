@@ -30,13 +30,13 @@ class UserLocale
         }
 
         $generalSettings = getGeneralSettings();
-        $userLanguages = $generalSettings['user_languages'];
+        $userLanguages = [""];
 
         if (!in_array($locale, $userLanguages)) {
             $locale = 'EN';
         }
 
-        Session::put('locale', mb_strtolower($locale));
+        // Session::put('locale', mb_strtolower($locale));
 
         return $next($request);
     }

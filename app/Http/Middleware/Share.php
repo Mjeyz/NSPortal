@@ -58,7 +58,7 @@ class Share
 
         // locale config
         if (!Session::has('locale')) {
-            Session::put('locale', mb_strtolower($generalSettings['site_language']));
+            // Session::put('locale', mb_strtolower($generalSettings['site_language']));
         }
         App::setLocale(session('locale'));
 

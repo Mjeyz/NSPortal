@@ -25,7 +25,7 @@ return [
     'password_repeat' => 'Retype Password',
     'login' => 'Login',
     'signup' => 'Sign up',
-    'signup_p' => 'Sign up to your account with Sky Academy',
+    'signup_p' => 'Sign up to your account with Our Academy',
     'register' => 'Register',
     'remember_me' => 'Remmember me',
     'forget_password' => 'Password Recovery',
@@ -38,7 +38,7 @@ return [
     'role_normal' => 'User',
 
     'login_h1' => 'Sign in',
-    'login_p' => 'Sign in to your account with Sky Academy',
+    'login_p' => 'Sign in to your account with Our Academy',
     'or' => 'or',
     'google_login' => 'Login with Google account',
     'facebook_login' => 'Login with Facebook account',

@@ -65,7 +65,7 @@
 
     <div class="container">
         <div class="academy-features">
-                <h2 class="custom-heading">Sky Academy Features</h2>
+                <h2 class="custom-heading">Our Academy Features</h2>
                 <p class="custom-p">What our academy features and what we look for in the future.</p>
            
             <p>&nbsp;</p>
@@ -75,12 +75,12 @@
                     <div class="box">
                         <img src="/assets/default/img/icons/feature-icon-1.png" alt="">
                         <h6>Payment methods</h6>
-                        <p>At Sky Academy, we relied on facilitating the payment process by using the most secure platforms, as well as on contracting with parties that allow beneficiaries to pay in installments.</p>
+                        <p>At Our Academy, we relied on facilitating the payment process by using the most secure platforms, as well as on contracting with parties that allow beneficiaries to pay in installments.</p>
                     </div>
                     <div class="box">
                         <img src="/assets/default/img/icons/feature-icon-3.png" alt="">
                         <h6>Accreditations And Certificates</h6>
-                        <p>At Sky Academy, we rely on contracting 
+                        <p>At Our Academy, we rely on contracting 
                         with the best international organizations
                         to provide strong accreditations acceptable
                         to local aviation legislators and airlines.</p>
@@ -88,7 +88,7 @@
                     <div class="box">
                         <img src="/assets/default/img/icons/feature-icon-2.png" alt="" style="width: 60px; height: 54px;">
                         <h6>Our Trainers</h6>
-                        <p>At Sky Academy, we rely on selecting the most qualified trainers known in the aviation training sector and contracting with them to provide courses with world-class professional content and from accredited bodies.</p>
+                        <p>At Our Academy, we rely on selecting the most qualified trainers known in the aviation training sector and contracting with them to provide courses with world-class professional content and from accredited bodies.</p>
                     </div>
             </div>
         </div>
